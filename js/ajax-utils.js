@@ -47,7 +47,8 @@
     
     // Expose utility to the global object
     global.$ajaxUtils = ajaxUtils;
-    console.log(ajaxUtils)
+    console.log(ajaxUtils)S
+    console.log(global)
     
     
     })(window);
